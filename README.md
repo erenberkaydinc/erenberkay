@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @erenberkaydinc
-- 🌟 I’m 📱 Mobile development and 💻 UX/UI D-esigning
+- 🌟 I’m interested in 📱 Mobile development and 💻 UX/UI D-esigning
 - 🔑🔆 I’m currently learning everything
