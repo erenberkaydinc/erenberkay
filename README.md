@@ -2,6 +2,7 @@
 - 🌟 I’m interested in 📱 Mobile app development and UI Designing
 - 🔆 I’m currently learning everything
 - 🏠 I’m currently living in Poznan , Poland 🇵🇱
+- 📫 How to contact with me: [LinkedIn](https://www.linkedin.com/in/erenberkaydinc/)
 - ⚡ Bla bla bla...
 
 <br />
@@ -37,7 +38,7 @@
 <code><img height="30" src="https://github.com/erenberkaydinc/erenberkaydinc/blob/master/MongoDB-Icon-logo.svg"></code>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erenberkaydinc&hide=TeX&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erenberkaydinc)](https://github.com/erenberkaydinc/github-readme-stats)
 
 ![Eren's Github Stats](https://github-readme-stats.vercel.app/api?username=erenberkaydinc&count_private=true&show_icons=true&include_all_commits=true)
 
