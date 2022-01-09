@@ -1,5 +1,5 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I’m @erenberkaydinc
-- 🌟 I’m interested in 📱 Mobile app development and UI Designing
+- 🌟 I’m interested in 📱 Mobile App development and Web Development
 - 🔆 I’m currently learning everything
 - 🏠 I live & study Computer Science in Poznan , Poland 🇵🇱
 - 📫 How to contact with me: [LinkedIn](https://www.linkedin.com/in/erenberkaydinc/)
@@ -22,21 +22,27 @@
 
 **Learning:**
 
-<code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/html.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/css3.png"></code>
+<code><img height="30" title="React Native"  src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/reactjs.png"></code>
+<code><img height="30" title="HTML" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/html.png"></code>
+<code><img height="30" title="CSS" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/css3.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/js.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/reactjs.png"></code>
+<code><img height="30" title="React" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png"></code>
 <code><img height="30" src="https://github.com/hussainweb/hussainweb/blob/main/icons/csharp.png"></code>
 
 **Back-end**
 
-<code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/nodejs.png"></code>
+<code><img height="30" title="NodeJs" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/nodejs.png"></code>
+<code><img height="30" title="Express" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/express_original_logo_icon_146527.png"></code>
 
 **Database**
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="30" src="https://github.com/erenberkaydinc/erenberkaydinc/blob/master/MongoDB-Icon-logo.svg"></code>
 
+**Extra**
+
+<code><img height="30" title="Photoshop CC" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_photoshop_icon_130268.png"></code>
+<code><img height="30" title="Adobe XD" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/adobe_xd_macos_bigsur_icon_190424.png"></code>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erenberkaydinc)](https://github.com/erenberkaydinc/github-readme-stats)
 
