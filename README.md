@@ -19,30 +19,38 @@
   <img  alt="ErenBerkay's Spotify" width="48px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a> 
 
+**Mobile:**
 
-**Learning:**
+<code><img height="48" title="React Native (Learning)"  src="https://erdincuzun.com/wp-content/uploads/2019/04/react-native-logo.png"></code>
+<code><img height="48" title="JavaScript" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/js.png"></code>
 
-<code><img height="30" title="React Native"  src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/reactjs.png"></code>
+
+**Web:**
+
+<code><img height="30" title="React (Learning)" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png"></code>
+<code><img height="30" title="Bootstrap 5 (Learning)" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png"></code>
 <code><img height="30" title="HTML" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/html.png"></code>
-<code><img height="30" title="CSS" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/css3.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/js.png"></code>
-<code><img height="30" title="React" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png"></code>
-<code><img height="30" src="https://github.com/hussainweb/hussainweb/blob/main/icons/csharp.png"></code>
+<code><img height="30" title="CSS (Improving)" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/css3.png"></code>
+<code><img height="30" title="JavaScript" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/js.png"></code>
+
 
 **Back-end**
 
-<code><img height="30" title="NodeJs" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/nodejs.png"></code>
+<code><img height="30" title="NodeJS" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/nodejs.png"></code>
 <code><img height="30" title="Express" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/express_original_logo_icon_146527.png"></code>
 
 **Database**
 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="30" src="https://github.com/erenberkaydinc/erenberkaydinc/blob/master/MongoDB-Icon-logo.svg"></code>
+<code><img height="40" title="FireBase" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="40" title="MongoDB" src="https://github.com/erenberkaydinc/erenberkaydinc/blob/master/MongoDB-Icon-logo.svg"></code>
 
 **Extra**
 
-<code><img height="30" title="Photoshop CC" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_photoshop_icon_130268.png"></code>
-<code><img height="30" title="Adobe XD" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/adobe_xd_macos_bigsur_icon_190424.png"></code>
+<code><img height="40" title="Adobe Photoshop CC" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_photoshop_icon_130268.png"></code>
+<code><img height="40" title="Adobe XD" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/adobe_xd_macos_bigsur_icon_190424.png"></code>
+<code><img height="40" title="C# Fundamentals" src="https://github.com/hussainweb/hussainweb/blob/main/icons/csharp.png"></code>
+
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erenberkaydinc)](https://github.com/erenberkaydinc/github-readme-stats)
 
