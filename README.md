@@ -3,7 +3,7 @@
 - 🔆 I’m currently learning everything
 - 🏠 I live & study Computer Science in Poznan , Poland 🇵🇱
 - 📫 How to contact with me: [LinkedIn](https://www.linkedin.com/in/erenberkaydinc/)
-- ⚡ Bla bla bla...
+- ⚡ My Portfolio :  <a href="https://erenberkay.herokuapp" target="_blank" >https://erenberkay.herokuapp.com</a>
 
 <br />
 
