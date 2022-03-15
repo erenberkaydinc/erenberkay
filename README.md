@@ -16,7 +16,7 @@
   <img align="left" alt="ErenBerkay's LinkedIN" width="48px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://open.spotify.com/user/erenberkaydinc-tr">
-  <img  alt="ErenBerkay's Spotify" width="48px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+  <img  alt="ErenBerkay's Spotify" width="48px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg" />
 </a> 
 
 **Mobile:**
