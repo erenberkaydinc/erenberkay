@@ -26,15 +26,10 @@
 <code><img height="48" title="iOS" src="https://camo.githubusercontent.com/576b6bdabc7ce710bb30f5eb348f4b72bb61504e7840e0cfffdfd21bb9a972bc/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f3435322f696f732d6c6f676f2e706e67"></code>
 <code><img height="48" title="React Native (Learning)"  src="https://erdincuzun.com/wp-content/uploads/2019/04/react-native-logo.png"></code>
 <code><img height="48" title="JavaScript" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/js.png"></code>
+<code><img height="48" title="Flutter" src="https://cdn-images-1.medium.com/max/1200/1*5-aoK8IBmXve5whBQM90GA.png"></code>
+<code><img height="48" title="Dart" src="https://avatars.githubusercontent.com/u/1609975?s=280&v=4"></code>
 
 
-**Web:**
-
-<code><img height="30" title="React (Learning)" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png"></code>
-<code><img height="30" title="Bootstrap 5 (Learning)" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png"></code>
-<code><img height="30" title="HTML" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/html.png"></code>
-<code><img height="30" title="CSS (Improving)" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/css3.png"></code>
-<code><img height="30" title="JavaScript" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/js.png"></code>
 
 
 **Back-end**
