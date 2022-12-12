@@ -3,7 +3,7 @@
 - 🔆 I’m currently learning SWIFT
 - 🏠 I live & study Computer Science in Poznan , Poland 🇵🇱
 - 📫 How to contact with me: [LinkedIn](https://www.linkedin.com/in/erenberkaydinc/)
-- ⚡ My Portfolio :  <a href="https://erenberkay.herokuapp" target="_blank" >https://erenberkay.herokuapp.com</a>
+- ⚡ My Portfolio :  <a href="https://eren.b4a.app" target="_blank" >https://eren.b4a.app</a>
 
 <br />
 
