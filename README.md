@@ -24,7 +24,6 @@
 
 <code><img height="48" title="Swift (Learning)" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png"></code>
 <code><img height="48" title="iOS" src="https://camo.githubusercontent.com/576b6bdabc7ce710bb30f5eb348f4b72bb61504e7840e0cfffdfd21bb9a972bc/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f3435322f696f732d6c6f676f2e706e67"></code>
-<code><img height="48" title="JavaScript" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/js.png"></code>
 <code><img height="48" title="Flutter" src="https://cdn-images-1.medium.com/max/1200/1*5-aoK8IBmXve5whBQM90GA.png"></code>
 <code><img height="48" title="Dart" src="https://avatars.githubusercontent.com/u/1609975?s=280&v=4"></code>
 
