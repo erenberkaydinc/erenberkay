@@ -22,7 +22,7 @@
 
 **Mobile:**
 
-<code><img height="48" title="SwiftUI" src="https://eren.b4a.app/assets/swiftUI.png"></code>
+<code><img height="48" title="SwiftUI" src="https://github.com/erenberkaydinc/erenberkaydinc/blob/master/swiftUILOGO.png?raw=true"></code>
 <code><img height="48" title="Swift (Learning)" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png"></code>
 <code><img height="48" title="iOS" src="https://camo.githubusercontent.com/576b6bdabc7ce710bb30f5eb348f4b72bb61504e7840e0cfffdfd21bb9a972bc/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f3435322f696f732d6c6f676f2e706e67"></code>
 <code><img height="48" title="Flutter" src="https://cdn-images-1.medium.com/max/1200/1*5-aoK8IBmXve5whBQM90GA.png"></code>
@@ -43,7 +43,7 @@
 ### **Personal Projects (apps)**
 
 * #### **MovieLander**
-  <img align="right" src="https://eren.b4a.app/assets/images/image_1326591a2f8234.gif" width="110"/> 
+  <img align="right" src="https://github.com/erenberkaydinc/erenberkaydinc/blob/master/movieLanderGif.gif?raw=true" width="110"/> 
   
   _Description_:
    - A movie app for diploma project that helps people to create their customized movie/series lists, and track their watch history, special notes for movie/series , and share them easily!
@@ -72,7 +72,7 @@
 <br/>
 
 * #### **Diaryle**
-  <img align="right" src="https://eren.b4a.app/assets/images/image_232461a2c1524.gif" width="110"/> 
+  <img align="right" src="https://github.com/erenberkaydinc/erenberkaydinc/blob/master/diaryleGif.gif?raw=true" width="110"/> 
   
   _Description_:
    - A nice diary app that has features adding mood ,iCloud backup & Dark Mode and other features, soon to be released on App Store!
@@ -91,7 +91,7 @@
    - SwiftUI , CoreData , Swift.
    - <code><img height="48" title="Swift (Learning)" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png"></code>
 <code><img height="48" title="iOS" src="https://camo.githubusercontent.com/576b6bdabc7ce710bb30f5eb348f4b72bb61504e7840e0cfffdfd21bb9a972bc/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f3435322f696f732d6c6f676f2e706e67"></code>
-<code><img height="48" title="SwiftUI" src="https://eren.b4a.app/assets/swiftUI.png"></code>
+<code><img height="48" title="SwiftUI" src="https://github.com/erenberkaydinc/erenberkaydinc/blob/master/swiftUILOGO.png?raw=true"></code>
      
 <br/>
 <br/>
