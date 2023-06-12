@@ -46,7 +46,7 @@
   <img align="right" src="https://eren.b4a.app/assets/images/image_1326591a2f8234.gif" width="110"/> 
   
   _Description_:
-   - An movie app for diploma project that helps people to create their customized movie/series lists, and track their watch history, special notes for movie/series , and share them easily!
+   - A movie app for diploma project that helps people to create their customized movie/series lists, and track their watch history, special notes for movie/series , and share them easily!
    
   _My role_:
    - Main app developer
