@@ -47,6 +47,7 @@
   
   _Description_:
    - An movie app for diploma project that helps people to create their customized movie/series lists, and track their watch history, special notes for movie/series , and share them easily!
+   
   _My role_:
    - Main app developer
   
@@ -75,6 +76,7 @@
   
   _Description_:
    - A nice diary app that has features adding mood ,iCloud backup & Dark Mode and other features, soon to be released on App Store!
+   
   _My role_:
    - Main app developer
   
