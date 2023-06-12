@@ -4,7 +4,7 @@
 - 🏠 I live & study Computer Science in Poznan , Poland 🇵🇱
 - 📫 How to contact with me: [LinkedIn](https://www.linkedin.com/in/erenberkaydinc/)
 - ⚡ My Portfolio :  <a href="https://eren.b4a.app" target="_blank" >https://eren.b4a.app</a>
-- 👇🏻 Scroll down to see some of my personal projects! 
+- 👇🏻 Scroll down to see some of my personal projects or <a href="https://github.com/erenberkaydinc#personal-projects-apps"> Click Here </a> ! 
 
 <br />
 
