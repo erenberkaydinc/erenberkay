@@ -10,17 +10,20 @@
 
 **Social Media**
 
-<a href="https://twitter.com/erenberkaydincc">
-  <img align="left" alt="ErenBerkay | Twitter" width="48px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+<a href="https://twitter.com/iosdeveren">
+  <img align="left" alt="ErenBerkay | Twitter" width="48px" src="https://github.com/erenberkaydinc/erenberkaydinc/blob/master/twitter.png?raw=true" />
 </a>
 <a href="https://www.linkedin.com/in/erenberkaydinc/">
-  <img align="left" alt="ErenBerkay's LinkedIN" width="48px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="ErenBerkay's LinkedIN" width="48px" src="https://github.com/erenberkaydinc/erenberkaydinc/blob/master/linkedin.png?raw=true" />
+</a>
+<a href="https://www.instagram.com/iosdeveren">
+  <img align="left" alt="iOS Dev Eren" width="48px" src="https://github.com/erenberkaydinc/erenberkaydinc/blob/master/instagram.png?raw=true" />
 </a>
 <a href="https://open.spotify.com/user/erenberkaydinc-tr">
   <img  alt="ErenBerkay's Spotify" width="48px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg" />
 </a> 
 
-**Mobile:**
+**Mobile**
 
 <code><img height="48" title="SwiftUI" src="https://github.com/erenberkaydinc/erenberkaydinc/blob/master/swiftUILOGO.png?raw=true"></code>
 <code><img height="48" title="Swift (Learning)" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png"></code>
@@ -29,16 +32,11 @@
 <code><img height="48" title="Dart" src="https://avatars.githubusercontent.com/u/1609975?s=280&v=4"></code>
 
 
-**Back-end**
+**Side Skills**
 
 <code><img height="30" title="NodeJS" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/nodejs.png"></code>
-<code><img height="30" title="Express" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/express_original_logo_icon_146527.png"></code>
-
-**Database**
-
 <code><img height="40" title="FireBase" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="40" title="MongoDB" src="https://github.com/erenberkaydinc/erenberkaydinc/blob/master/MongoDB-Icon-logo.svg"></code>
-
 
 ### **Personal Projects (apps)**
 
