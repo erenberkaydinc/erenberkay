@@ -1,11 +1,20 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25" width="25"> I’m @erenberkaydinc
 - 🌟 I’m interested in 📱 Mobile & iOS App development
-- 🏠 I live & study Computer Science in Poznan , Poland 🇵🇱
+- 🏠 I live & study Computer Science in Poznan, Poland 🇵🇱
 - 📫 How to contact with me: [LinkedIn](https://www.linkedin.com/in/erenberkaydinc/)
 - ⚡ My Portfolio :  <a href="https://eren.b4a.app" target="_blank" >https://eren.b4a.app</a>
 - 👇🏻 Scroll down to see some of my personal projects or <a href="https://github.com/erenberkaydinc#personal-projects-apps"> Click Here </a> ! 
 
 <br />
+
+<div>
+    <h2 align=center> My Featured Applications </h2>
+</div>
+<div align=center>
+  <a href="https://apps.apple.com/tr/app/guess-world-flags-quiz-games/id6472716628"><img width=150 src="https://github.com/erenberkaydinc/erenberkaydinc/blob/master/guessworldflagsApp.png?raw=true"></a>
+  <a href="https://eren.b4a.app/"><img  width=150 src="https://github.com/erenberkaydinc/erenberkaydinc/blob/master/movieLanderGif.gif?raw=true"></a>
+
+</div>
 
 **Social Media**
 
@@ -21,6 +30,8 @@
 <a href="https://open.spotify.com/user/erenberkaydinc-tr">
   <img  alt="ErenBerkay's Spotify" width="48px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg" />
 </a> 
+
+
 
 **Mobile**
 
