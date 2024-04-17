@@ -50,6 +50,8 @@
 
 <code><img height="30" title="NodeJS" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/nodejs.png"></code>
 <code><img height="40" title="FireBase" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="40" title="Google Analytics" src="https://github.com/erenberkaydinc/erenberkaydinc/blob/master/googleanalytics.png"></code>
+<code><img height="40" title="Google Admob" src="https://github.com/erenberkaydinc/erenberkaydinc/blob/master/admoblogo.png"></code>
 <code><img height="40" title="MongoDB" src="https://github.com/erenberkaydinc/erenberkaydinc/blob/master/MongoDB-Icon-logo.svg"></code>
 
 ### **Personal Projects (apps)**
