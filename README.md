@@ -20,7 +20,15 @@
 
 <br />
 
-**Social Media**
+**Social Media & Markets**
+
+<a href="https://apps.apple.com/tr/developer/eren-berkay-dinc/id1672754214">
+  <img align="left" alt="App Store" width="48px" src="https://github.com/erenberkaydinc/erenberkaydinc/blob/master/app_store.png?raw=true" />
+</a>
+
+<a href="https://play.google.com/store/apps/dev?id=8809712470175793953">
+  <img align="left" alt="Google Play Store" width="48px" src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_Play_2022_icon.svg" />
+</a>
 
 <a href="https://twitter.com/iosdeveren">
   <img align="left" alt="ErenBerkay | Twitter" width="48px" src="https://github.com/erenberkaydinc/erenberkaydinc/blob/master/twitter.png?raw=true" />
