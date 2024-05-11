@@ -5,7 +5,7 @@
 </div>
 <div align=center>
   <a href="https://apps.apple.com/tr/app/geography-quiz-trivia-games/id6478601138"><img width=150 src="https://github.com/erenberkaydinc/erenberkaydinc/blob/master/geoquiz.gif?raw=true"></a>
-  <a href="https://apps.apple.com/tr/app/guess-world-flags-quiz-games/id6472716628"><img width=150 src="https://github.com/erenberkaydinc/erenberkaydinc/blob/master/guessworldflagsApp.png?raw=true"></a>
+  <a href="https://apps.apple.com/tr/app/guess-world-flags-quiz-games/id6472716628"><img width=150 src="https://github.com/erenberkaydinc/erenberkaydinc/blob/master/English%206.7-1.png?raw=true"></a>
     <a href="https://apps.apple.com/tr/app/history-quiz-trivia-games/id6479575315"><img width=150 src="https://github.com/erenberkaydinc/erenberkaydinc/blob/master/histquiz.gif?raw=true"></a>
   <a href="https://eren.b4a.app/"><img  width=150 src="https://github.com/erenberkaydinc/erenberkaydinc/blob/master/movieLanderGif.gif?raw=true"></a>
 
