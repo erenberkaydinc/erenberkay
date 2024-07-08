@@ -4,9 +4,9 @@
     <h2 align=center> My Featured Applications </h2>
 </div>
 <div align=center>
-  <a href="https://apps.apple.com/tr/app/geography-quiz-trivia-games/id6478601138"><img width=150 src="https://github.com/erenberkaydinc/erenberkaydinc/blob/master/geoquiz.gif?raw=true"></a>
+  <a href="https://apps.apple.com/tr/app/geography-quiz-trivia-games/id6478601138"><img width=150 src="https://github.com/erenberkaydinc/erenberkaydinc/blob/master/geoquizgif.gif?raw=true"></a>
   <a href="https://guessworldflags.b4a.app/"><img width=150 src="https://github.com/erenberkaydinc/erenberkaydinc/blob/master/productHunt.png?raw=true"></a>
-    <a href="https://apps.apple.com/tr/app/history-quiz-trivia-games/id6479575315"><img width=150 src="https://github.com/erenberkaydinc/erenberkaydinc/blob/master/histquiz.gif?raw=true"></a>
+    <a href="https://apps.apple.com/tr/app/history-quiz-trivia-games/id6479575315"><img width=150 src="https://github.com/erenberkaydinc/erenberkaydinc/blob/master/historyquizgif.gif?raw=true"></a>
   <a href="https://eren.b4a.app/"><img  width=150 src="https://github.com/erenberkaydinc/erenberkaydinc/blob/master/movieLanderGif.gif?raw=true"></a>
 </div>
 
